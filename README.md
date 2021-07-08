@@ -10,9 +10,9 @@
 3. Twitter Sentiment Analysis
 4. Prediction Based on twitter analysis
 
-![Loading...](https://raw.githubusercontent.com/ar5jun/Arjun_Portfolio/main/images/twitter_vader.png)
-
 ![Loading...](https://raw.githubusercontent.com/ar5jun/Arjun_Portfolio/main/images/pie%20_chart_top_parties.png)
+
+![Loading...](https://raw.githubusercontent.com/ar5jun/Arjun_Portfolio/main/images/twitter_vader.png)
 
 ### Deployment
 The site is hosted at [Election Analysis](https://electionanalysis.herokuapp.com/)
