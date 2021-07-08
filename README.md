@@ -11,7 +11,7 @@
 4. Prediction Based on twitter analysis
 
 ![Loading...](https://github.com/ar5jun/Arjun_Portfolio/blob/main/images/Qualification_of_%20candidates.png)
-
+### Sentiment analysis on VADER
 ![Loading...](https://raw.githubusercontent.com/ar5jun/Arjun_Portfolio/main/images/twitter_vader.png)
 
 ### Deployment
