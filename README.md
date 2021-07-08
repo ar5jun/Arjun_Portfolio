@@ -11,5 +11,10 @@
 4. Prediction Based on twitter analysis
 
 
-### Sentiment Analysis based on VADER
-![alt text](https://github.com/ar5jun/Arjun_Portfolio/blob/main/images/twitter_vader.png)
+![Loading...](https://github.com/ar5jun/Arjun_Portfolio/blob/main/images/twitter_vader.png)
+
+![Loading...](https://raw.githubusercontent.com/ar5jun/Arjun_Portfolio/main/images/pie%20_chart_top_parties.png)
+
+
+### Deployment
+The site is hosted at [Election Analysis](https://electionanalysis.herokuapp.com/)
