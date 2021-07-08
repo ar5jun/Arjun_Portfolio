@@ -10,3 +10,6 @@
 *. Twitter Sentiment Analysis
 *. Prediction Based on twitter analysis
 
+
+### Sentiment Analysis based on VADER
+![alt text](https://github.com/ar5jun/Arjun_Portfolio/blob/main/images/twitter_vader.png)
