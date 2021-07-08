@@ -17,7 +17,6 @@ e-mail : arjunkb15@gmail.com
 ### Sentiment analysis on VADER
 ![Loading...](https://raw.githubusercontent.com/ar5jun/Arjun_Portfolio/main/images/twitter_vader.png)
 
-### Deploymenthttps://raw.githubusercontent.com/ar5jun/Arjun_Portfolio/main/images/Qualification_of_%20candidates.png
 The site is hosted at [Election Analysis](https://electionanalysis.herokuapp.com/)
 
 ## [Project 2 : Bike Demand Prediction ](https://github.com/ar5jun/bike_sharing_linear_regression)
