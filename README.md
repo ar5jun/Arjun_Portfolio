@@ -24,7 +24,7 @@ Bike sharing systems are new generation of traditional bike rentals where whole 
 Dataset source : [Bike Sharing UCI](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
 
 1. Bike sharing systems are new generation of traditional bike rentals where whole process from membership, rental and return back has become automatic.
-2. Demand of bikes based on hour, seaso, climate etc are predicted
+2. Demand of bikes based on hour, season, climate etc are predicted
 3. RMSLE Score :  0.3577563575605039
 
 ![Loading...](https://raw.githubusercontent.com/ar5jun/Arjun_Portfolio/main/images/bike.png)
