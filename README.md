@@ -10,11 +10,11 @@
 3. Twitter Sentiment Analysis
 4. Prediction Based on twitter analysis
 
-![Loading...](https://github.com/ar5jun/Arjun_Portfolio/blob/main/images/Qualification_of_%20candidates.png)
+![Loading...](https://raw.githubusercontent.com/ar5jun/Arjun_Portfolio/main/images/Qualification_of_%20candidates.png)
 ### Sentiment analysis on VADER
 ![Loading...](https://raw.githubusercontent.com/ar5jun/Arjun_Portfolio/main/images/twitter_vader.png)
 
-### Deployment
+### Deploymenthttps://raw.githubusercontent.com/ar5jun/Arjun_Portfolio/main/images/Qualification_of_%20candidates.png
 The site is hosted at [Election Analysis](https://electionanalysis.herokuapp.com/)
 
 # [Project 2 : Bike Demand Prediction ](https://github.com/ar5jun/bike_sharing_linear_regression)
