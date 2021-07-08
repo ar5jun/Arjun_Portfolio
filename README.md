@@ -1,6 +1,6 @@
 ## Arjun KB 
-## LinkedIn  : [Arjun](www.linkedin.com/in/arjun-kb-61a8321b0)
-## @arjunkb15@gmail.com
+LinkedIn  : [Arjun](www.linkedin.com/in/arjun-kb-61a8321b0)
+@ arjunkb15@gmail.com
 
 
 
