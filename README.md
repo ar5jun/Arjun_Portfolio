@@ -1,5 +1,5 @@
 ## Arjun KB 
-LinkedIn  : [Arjun](www.linkedin.com/in/arjun-kb-61a8321b0)
+LinkedIn  : [Arjun](https://www.linkedin.com/in/arjun-kb-61a8321b0/)
 
 e-mail : arjunkb15@gmail.com
 
