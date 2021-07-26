@@ -30,3 +30,13 @@ Dataset source : [Bike Sharing UCI](https://archive.ics.uci.edu/ml/datasets/Bike
 3. RMSLE Score :  0.3577563575605039
 
 ![Loading...](https://raw.githubusercontent.com/ar5jun/Arjun_Portfolio/main/images/bike.png)
+
+
+
+
+## [Project 3 : Classification Model-Build a model that classifies the side effects of a drug](https://github.com/ar5jun/RIO-125---Classification-Model-Build-a-model-that-classifies-the-side-effects-of-a-drug.git)
+
+1. Extraction of labels from text data
+2. Grouping medical conditions
+3. Anlysis on drug usage and medical condition of people
+4. Random forest with 0.9 F1 score
