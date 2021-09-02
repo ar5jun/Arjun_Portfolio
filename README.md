@@ -6,7 +6,7 @@ e-mail : arjunkb15@gmail.com
 
 
 
-## [Project 1 : Prediction and Sentimental Analysis](https://github.com/ar5jun/Prediction-and-Sentimental-Analysis)
+## [Project 1 : Classification and Sentimental Analysis](https://github.com/ar5jun/Prediction-and-Sentimental-Analysis)
 
 1. Indian Loksabha Election 2019 Prediction Model
 2. Indian Election Analysis
